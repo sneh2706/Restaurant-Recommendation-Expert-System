@@ -1,0 +1,29 @@
+RESTAURANT NAME,ADDRESS,CITY,CATEGORY,CUISINE,PRICE,RATING
+Food-Of-Heaven,Jhalwa,Allahabad,Veg|Non-Veg,Indian|Chinese,Under150,1
+El-Chico,Mg-Marg Civil Lines,Allahabad,Veg|Non-Veg,Indian|Italian,Above300,3
+Eat-On,George-Town,Allahabad,Non-Veg,Indian,Under150,3
+Aroma,Chowk,Allahabad,Veg,Indian,Under150,2
+Vilayat,Doomanganj,Allahabad,Non-Veg,Chinese|Italian,150-300,1
+Checkers,Katra,Allahabad,Veg|Non-Veg,Italian|Chinese,150-300,2
+Rock-On,Jhalwa,Allahabad,Veg,Indian,Under150,1
+Al-Baiq,Kareli,Allahabad,Non-Veg,Indian,150-300,3
+Warsi,Sangam,Allahabad,Veg|Non-Veg,Chinese,Above300,1
+Raj-Kitchen,Chowk,Allahabad,Veg,Indian|Chinese,150-300,2
+Pind-Baluchi,Civil Lines,Allahabad,Veg|Non-Veg,Indian,Above300,3
+Dawat,George Town,Lucknow,Veg|Non-Veg,Chinese|Italian,Above300,2
+Pubg-Chicken,Indira Nagar,Lucknow,Non-Veg,Indian,Under150,1
+Kanha-Shyam,civil lines,Allahabad,Non-Veg,Indian|Chinese|Italian,Above300,3
+Tandoor,Janki Puram,Lucknow,Veg,Indian,150-300,2
+Dana-Pani,jhalwa,Allahabad,Veg|Non-Veg,Indian,Under150,2
+Kohinoor,Janki Puram,Lucknow,Veg|Non-Veg,Italian,Above300,1
+Khuda-Baksh,Indira Nagar,Lucknow,Non-Veg,Chinese|Italian,150-300,1
+Bercos,Alam-Bagh,Lucknow,Veg|Non-Veg,Italian|Chinese,Above300,2
+BBQ,Jhalwa,Allahabad,Non-Veg,Indian,Above300,3
+Gola-Sizzler,Alam-Bagh,Lucknow,Veg|Non-Veg,Italian|Indian,150-300,2
+Mac-D,Central Market,Lucknow|Allahabad,Non-Veg,Chinese,Under150,1
+Dominos,Indira Nagar,Lucknow,Veg|Non-Veg,Italian|Chinese,150-300,2
+Pizza-Hut,Alam-Bagh,Lucknow|Allahabad,Non-Veg,Italian,Above300,3
+Sameer-House,Imam-Bada,Lucknow,Veg,Italian|Indian|Chinese,Under150,3
+Food_Court,Civil-Lines,Allahabad|Lucknow,Veg|Non-Veg,Indian|Italian|Chinese,Under150,3
+Regal-Palace,Cantonment,Lucknow|Allahabad,Veg|Non-Veg,Indian|Italian|Chinese,150-300,3
+Paradise,Centre-Park,Lucknow|Allahabad,Veg|Non-Veg,Indian|Italian|Chinese,Above300,3
